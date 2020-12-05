@@ -40,7 +40,7 @@ RESET = "\033[0m"
 # BANNER
 banner = """{0}
 Konan {1} - Advanced Web Application Dir Scanner
-by: Momo (mallok) Outaadi (github.com/m4ll0k)
+by: Luther Smith (@habatech) BINMANAGER (t.me/binmanager)
 {2}
 """.format(
     "-" * 50, "(0.1)", "-" * 50
